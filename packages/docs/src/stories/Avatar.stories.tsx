@@ -12,6 +12,7 @@ export default {
     src: {
       control: {
         type: 'text',
+        type2: 'text',
       },
     },
   },
